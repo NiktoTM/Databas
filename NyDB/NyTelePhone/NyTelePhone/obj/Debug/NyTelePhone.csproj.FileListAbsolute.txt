@@ -1,0 +1,14 @@
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\bin\Debug\NyTelePhone.exe.config
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\bin\Debug\NyTelePhone.exe
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\bin\Debug\NyTelePhone.pdb
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.Form1.resources
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.Properties.Resources.resources
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.csproj.GenerateResource.cache
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.csproj.CoreCompileInputs.cache
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.exe
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.pdb
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.csproj.AssemblyReference.cache
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.Form2.resources
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.Form3.resources
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.FirstPage.resources
+C:\Users\christopher.thomasi\Desktop\NyDB\NyTelePhone\NyTelePhone\obj\Debug\NyTelePhone.Navigation.resources
